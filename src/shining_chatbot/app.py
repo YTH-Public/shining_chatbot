@@ -11,6 +11,7 @@ st.set_page_config(
 
 st.title("😂 나의 첫 번째 챗봇")
 st.write("Streamlit으로 만든 챗봇 페이지입니다.")
+st.write("업데이트가 될까요?")
 
 # 입력창과 응답 화면 테스트
 user_input = st.chat_input("메시지를 입력하세요.")
